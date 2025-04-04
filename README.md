@@ -15,7 +15,5 @@
   - Herramientas: Git, GitHub, Vercel
 
 <br/>
-### 📊 Lenguajes más usados:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bananice-666&layout=compact&langs_count=6&theme=radical&count_private=true)
-
+aea
 
