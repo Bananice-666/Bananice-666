@@ -14,6 +14,3 @@
   - Estilos: Tailwind CSS, CSS3
   - Herramientas: Git, GitHub, Vercel
 
-<br/>
-aea
-
