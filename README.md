@@ -8,7 +8,7 @@
   - 💡 Amante de la creatividad y la innovación
     
 - 🚀 Tecnologías y herramientas.
-<p align="left" style="display: flex; align-items: center; gap: 20;">
+<p align="left" style="display: flex; align-items: center; gap: 5rem;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
