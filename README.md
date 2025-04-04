@@ -1,16 +1,25 @@
 ## Hi there 👋
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/zMSbsGWTqosAAAAd/tenor.gif" />
-<!--
-**Bananice-666/Bananice-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | 💻 Apasionado por la tecnología | 🏆 Siempre aprendiendo
 
-Here are some ideas to get you started:
+🌟 Sobre mí
+👨‍💻 Actualmente trabajo como Freelancer en Inel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Me especializo en Frontend Development
+
+💡 Amante de la creatividad y la innovación
+
+🚀 Tecnologías y herramientas
+Lenguajes: JavaScript, TypeScript
+
+Frameworks: React.js, Next.js, Astro
+
+Estilos: Tailwind CSS, CSS3
+
+Herramientas: Git, GitHub, Vercel
+
+💼 Proyectos Destacados
+1️⃣ Centro GEPAE
+2️⃣ GEPAE Landing
+3️⃣ Villa Cars (Mantenimiento y reparación de autopartes)
+4️⃣ Recues Medical (Desarrollo en Astro)
