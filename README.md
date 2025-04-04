@@ -8,16 +8,6 @@
   - 💡 Amante de la creatividad y la innovación
     
 - 🚀 Tecnologías y herramientas.
-  
-  - Lenguajes: JavaScript, TypeScript
-  - Frameworks: React.js, Next.js, Astro.
-  - Estilos: Tailwind CSS, CSS3
-  - Herramientas: Git, GitHub, Vercel
-<br/>
-
-
-### 🛠️ Tecnologías que uso
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
