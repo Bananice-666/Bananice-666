@@ -6,6 +6,9 @@
   - 🎯 Me especializo en Frontend Development
   - 💡 Amante de la creatividad y la innovación
 - 🚀 Tecnologías y herramientas.
+  -Lenguajes: JavaScript, TypeScript<br>
+  -
+  
 - Lenguajes: JavaScript, TypeScript<br>
 - Frameworks: React.js, Next.js, Astro.
 - Estilos: Tailwind CSS, CSS3
