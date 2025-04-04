@@ -20,4 +20,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-![lumiD](https://github.com/user-attachments/assets/868a8769-fc2e-4aac-b683-91d77a5c7b44)
+<img src="https://github.com/user-attachments/assets/868a8769-fc2e-4aac-b683-91d77a5c7b44" width=100px/>
