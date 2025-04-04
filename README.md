@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Brayan!
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/zMSbsGWTqosAAAAd/tenor.gif" />
 
 🎨 Frontend Developer | 💻 Apasionado por la tecnología | 🏆 Siempre aprendiendo
